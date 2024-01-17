@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Xuytret.png-8581fd55543249ae18aa695f703a1b07.stex"
+path="res://.import/Xuytret.png-f7ae62180477bd41dc7fbc146dd350bd.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://EXPORT/Xuytret.png"
-dest_files=[ "res://.import/Xuytret.png-8581fd55543249ae18aa695f703a1b07.stex" ]
+source_file="res://Export/Xuytret.png"
+dest_files=[ "res://.import/Xuytret.png-f7ae62180477bd41dc7fbc146dd350bd.stex" ]
 
 [params]
 
